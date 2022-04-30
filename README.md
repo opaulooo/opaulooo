@@ -46,9 +46,9 @@
   
   <img align="center" alt="IONIC" height="35" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg">
     
-  <img align="center" alt="Flutter" height="35" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="NodeJS" height="35" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
     
-  <img align="center" alt="Flutter" height="35" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="Bootstrap" height="35" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   
   <img align="center" alt="Flutter" height="35" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
   
@@ -57,9 +57,9 @@
   <br>
     
     
-  <img align="center" alt="Flutter" height="50" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Flutter" height="50" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Flutter" height="50" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
+  <img align="center" alt="MySQL" height="50" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="PostgreSQL" height="50" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="SQLite" height="50" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
 </div>
   
   <br>
