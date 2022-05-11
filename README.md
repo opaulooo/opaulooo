@@ -76,6 +76,9 @@
  
   ![Snake animation](https://github.com/opaulooo/opaulooo/blob/output/github-contribution-grid-snake.svg)
 </div>
-  
- 
 </div>
+
+<h3 align="center">Você é o visitante:</h3> 
+<p align="center">
+  <img alingn="center" src="https://profile-counter.glitch.me/opaulooo/count.svg" />
+</p>
