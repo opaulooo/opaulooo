@@ -51,7 +51,7 @@
 
 <div>
   <table>
-  <tr style="width=80%">
+  <tr style="width=100%">
   <td align="center" width="120px">
   <p>
       <img align="center" alt="JS" height="35" width="auto"
@@ -146,7 +146,7 @@
 <p>Tecnologias que estou buscando aprender mais:</p>
 
   <table>
-  <tr style="width=80%">
+  <tr style="width=100%">
   <td align="center" width="120px">
   <p>
     <img align="center" alt="MySQL" height="50" width="auto"
