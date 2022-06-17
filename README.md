@@ -72,24 +72,6 @@
 
   <td align="center" width="120px">
     <p>
-        <img align="center" alt="HTML" height="35" width="auto"
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    </p>
-    <small>HTML5</small>
-  </td>
-
-
-  <td align="center" width="120px">
-    <p>
-        <img align="center" alt="CSS" height="35" width="auto"
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    </p>
-    <small>CSS3</small>
-  </td>
-
-
-  <td align="center" width="120px">
-    <p>
         <img align="center" alt="Angular" height="35" width="auto"
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
     </p>
@@ -131,8 +113,16 @@
     </p>
     <small>SQLite</small>
   </td>
-
+      
+  <td align="center" width="120px">
+  <p>
+    <img align="center" alt="PostgreSQL" height="50" width="auto" style="color:white"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  </p>
+  <small>PostgreSQL</small>
   </tr>
+
+  </td>
 
   </table>
 </div>
@@ -151,7 +141,7 @@
 
   <td align="center" width="120px">
   <p>
-    <img align="center" alt="MySQL" height="50" width="auto"
+    <img align="center" alt="React" height="50" width="auto"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   </p>
   <small>React</small>
@@ -160,28 +150,12 @@
 
   <td align="center" width="120px">
   <p>
-    <img align="center" alt="MySQL" height="50" width="auto"
+    <img align="center" alt="NestJS" height="50" width="auto"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
   </p>
   <small>NestJS</small>
   </td>
   
-  <td align="center" width="120px">
-  <p>
-    <img align="center" alt="MySQL" height="50" width="auto"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  </p>
-  <small>MySQL</small>
-  </td>
-
-
-  <td align="center" width="120px">
-  <p>
-    <img align="center" alt="PostgreSQL" height="50" width="auto" style="color:white"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  </p>
-  <small>PostgreSQL</small>
-  </td>
 
 
   <td align="center" width="120px">
@@ -190,15 +164,6 @@
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
     </p>
     <small>Kotlin</small>
-  </td>
-
-
-  <td align="center" width="120px">
-    <p>
-        <img align="center" alt="Dart" height="35" width="auto"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
-    </p>
-    <small>Dart</small>
   </td>
 
 
@@ -219,6 +184,24 @@
     <small>Python</small>
   </td>
 
+  
+
+  <td align="center" width="120px">
+    <p>
+        <img align="center" alt="JAVA" height="50" width="auto"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+    </p>
+    <small>JAVA</small>
+  </td>
+  
+
+  <td align="center" width="120px">
+    <p>
+        <img align="center" alt=".NET" height="50" width="auto"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
+    </p>
+    <small>.NET</small>
+  </td>
 
   </tr>
 
