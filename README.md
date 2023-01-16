@@ -218,9 +218,9 @@
 <div align="center">
     <a href="https://github.com/opaulooo"> </a>
     <img height="160em"
-        src="https://github-readme-stats.vercel.app/api?username=opaulooo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+        src="https://github-readme-stats-sigma-five.vercel.app/api?username=opaulooo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&show_icons=true" />
     <img height="160em"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=opaulooo&layout=compact&langs_count=10&theme=dracula" />
+        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=opaulooo&layout=compact&langs_count=16&theme=dracula" />
 
   <br>
 
