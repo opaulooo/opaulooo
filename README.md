@@ -6,13 +6,13 @@
 <div style="display: inline_block;">
 
 <br>
-🔭 Trabalho atualmente como FullStack, mas com um olhinho no Mobile
+🔭 Trabalho atualmente como FullStack
 
 <br>
-🎓 Estou cursando o 7º Perído de Engenharia da Computação
+🎓 Estou cursando o 10º Perído de Engenharia da Computação
 
 <br>
-🌱 Estou estudando Kotlin, Flutter e Python
+🌱 Estou estudando Entity Framework, Angular e IONIC
 
 <br>
 🎮 Gosto de jogar CS: GO, Fortnite, Valorant, GTA, Phasmophobia, The Witcher, ...
@@ -52,23 +52,6 @@
 <div>
   <table>
   <tr style="width=100%">
-  <td align="center" width="120px">
-  <p>
-      <img align="center" alt="JS" height="35" width="auto"
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  </p>
-  <small>JavaScript</small>
-  </td>
-
-
-  <td align="center" width="120px">
-  <p>
-      <img align="center" alt="TS" height="35" width="auto"
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  </p>
-  <small>TypeScript</small>
-  </td>
-
 
   <td align="center" width="120px">
     <p>
@@ -96,33 +79,24 @@
     <small>NodeJS</small>
   </td>
 
-
   <td align="center" width="120px">
     <p>
-        <img align="center" alt="Bootstrap" height="35" width="auto"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+        <img align="center" alt=".NET" height="35" width="auto"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
     </p>
-    <small>Bootstrap</small>
+    <small>.NET</small>
   </td>
   
 
   <td align="center" width="120px">
     <p>
-        <img align="center" alt="SQLite" height="50" width="auto"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
+        <img align="center" alt="MySQL" height="35" width="auto"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
     </p>
-    <small>SQLite</small>
+    <small>MySQL</small>
   </td>
       
-  <td align="center" width="120px">
-  <p>
-    <img align="center" alt="PostgreSQL" height="50" width="auto" style="color:white"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  </p>
-  <small>PostgreSQL</small>
   </tr>
-
-  </td>
 
   </table>
 </div>
@@ -141,7 +115,7 @@
 
   <td align="center" width="120px">
   <p>
-    <img align="center" alt="React" height="50" width="auto"
+    <img align="center" alt="React" height="35" width="auto"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   </p>
   <small>React</small>
@@ -150,29 +124,19 @@
 
   <td align="center" width="120px">
   <p>
-    <img align="center" alt="NestJS" height="50" width="auto"
+    <img align="center" alt="NestJS" height="35" width="auto"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
   </p>
   <small>NestJS</small>
   </td>
   
 
-
   <td align="center" width="120px">
-    <p>
-  <img align="center" alt="Kotlin" height="35" width="auto"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
-    </p>
-    <small>Kotlin</small>
-  </td>
-
-
-  <td align="center" width="120px">
-    <p>
-  <img align="center" alt="Flutter" height="35" width="auto"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
-    </p>
-    <small>Flutter</small>
+  <p>
+    <img align="center" alt="Kubernetes" height="35" width="auto"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
+  </p>
+  <small>Kubernetes</small>
   </td>
 
 
@@ -188,20 +152,12 @@
 
   <td align="center" width="120px">
     <p>
-        <img align="center" alt="JAVA" height="50" width="auto"
+        <img align="center" alt="JAVA" height="35" width="auto"
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
     </p>
     <small>JAVA</small>
   </td>
   
-
-  <td align="center" width="120px">
-    <p>
-        <img align="center" alt=".NET" height="50" width="auto"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
-    </p>
-    <small>.NET</small>
-  </td>
 
   </tr>
 
